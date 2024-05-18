@@ -45,7 +45,7 @@ public class Iphone implements AparelhoTelefonico, NavegadorInternet, Reprodutor
 
   
     public void atender() {
-        System.out.println("Ligando.");
+        System.out.println("Atendendo.");
     }
 
    
