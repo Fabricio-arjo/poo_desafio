@@ -9,6 +9,13 @@ public class Usuario {
           iphone.tocar();
           iphone.pausar();
 
+          iphone.ligar();
+          iphone.atender();
+          iphone.iniciarCorreioVoz();
+
+          iphone.exibirPagina();
+          iphone.adicionarNovaAba();
+          iphone.atualizarPagina();
           
 
 
